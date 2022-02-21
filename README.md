@@ -1,6 +1,7 @@
 # i_am_rich
 
-A new Flutter project.
+Practise To add custom image to Assets folder.
+  - Learning From Udemy Course
 
 ## Getting Started
 
